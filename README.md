@@ -1,6 +1,6 @@
 # Library Management System — Frontend
 
-A lightweight React frontend for the [Library Management System](../library-management-system) Spring Boot API.
+A lightweight React frontend for the [Library Management System](https://github.com/AbhijeetKumarGupta/library-management-system-backend) Spring Boot API.
 
 ## Tech Stack
 
